@@ -1,0 +1,8 @@
+.grid-main{
+    display: grid;
+    margin: 0 auto;
+    grid-template-columns: auto ;
+}
+.grid-items img{
+    width: 400px;
+}
